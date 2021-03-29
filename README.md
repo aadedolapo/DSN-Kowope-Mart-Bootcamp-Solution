@@ -17,7 +17,7 @@ Predict Customers who will default on a Loan
 
 
 
-Packages: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, CatBoost and KFold.
+**Packages**: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, CatBoost and KFold.
 
 The solution was built using CatBoost model.
 
